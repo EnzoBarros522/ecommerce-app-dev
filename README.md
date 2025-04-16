@@ -26,8 +26,6 @@ This is an e-commerce web application built with [Next.js](https://nextjs.org/),
 
 The data is derived from the [Fake Store API](https://fakestoreapi.com/). It is a really cool API to build e-commerce demo projects. Due to requirement to add some extra fields and features, its data is copied and changed a little.
 
-**Live demo is [here](https://next-shopper.vercel.app/).**
-
 ## 💻 Tech Stack
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
